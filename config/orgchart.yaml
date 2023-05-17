@@ -4,3 +4,9 @@ chartgerink:
     - director
   title: CEO & Founder
   manager: chartgerink
+  
+chjhartgerink-test:
+  status:
+    - employee
+  title: TEST
+  manager: chartgerink
